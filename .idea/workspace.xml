@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef404b6a-f62b-4889-aa8c-cee85ef5b1a4" name="Changes" comment="Initial commit" />
+    <list default="true" id="ef404b6a-f62b-4889-aa8c-cee85ef5b1a4" name="Changes" comment="feature/task1293">
+      <change afterPath="$PROJECT_DIR$/src/Timus/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaEducation/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaEducation/lr1/task13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaEducation/lr1/task13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaEducation/lr1/task14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaEducation/lr1/task14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaEducation/lr1/task15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaEducation/lr1/task15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,13 +46,13 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.task15">
-    <configuration name="task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.task10" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus.task_1293.Main" />
       <module name="JavaEducation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr1.*" />
+          <option name="PATTERN" value="Timus.task_1293.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.task12" />
+    <configuration name="task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.task10" />
       <module name="JavaEducation" />
       <extension name="coverage">
         <pattern>
@@ -106,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.task15" />
         <item itemvalue="Application.task14" />
         <item itemvalue="Application.task10" />
         <item itemvalue="Application.task13" />
-        <item itemvalue="Application.task12" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +159,35 @@
       <option name="project" value="LOCAL" />
       <updated>1669300922475</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1669300983857</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669300983857</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial commit">
+      <created>1669301004667</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669301004667</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial commit">
+      <created>1669301018820</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669301018820</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feature/task1293">
+      <created>1669302647098</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669302647098</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,7 +204,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="feature/task1293" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature/task1293" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
