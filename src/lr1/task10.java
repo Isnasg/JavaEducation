@@ -5,7 +5,7 @@ public class task10 {
         Scanner in = new Scanner(System.in);
         int s;
         s = 2022;
-        System.out.println("Вве дите год вашего рождения: ");
+        System.out.println("Введите год вашего рождения: ");
         int age = in.nextInt();
 
         s -= age;
