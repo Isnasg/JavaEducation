@@ -6,7 +6,7 @@ public class task3 {
         s = 10;
         d = 20;
         if (s < d) {
-            System.out.println("S  < D");
+            System.out.println("S < D");
         }
         s = s * 2;
         if (s == d) {

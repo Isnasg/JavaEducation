@@ -6,7 +6,7 @@ public class task4 {
 
             Scanner in = new Scanner(System.in);
 
-            System.out.println("Inp ut a number:");
+            System.out.println("Input a number:");
             int num = in.nextInt();
 
             System.out.println("Your number " + num);

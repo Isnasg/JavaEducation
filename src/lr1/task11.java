@@ -7,7 +7,7 @@ public class task11 {
         s = 2022;
         System.out.println("Введите ваше имя: ");
         String name = in.nextLine();
-        System.out.println("Введ ите год вашего рождения: ");
+        System.out.println("Введите год вашего рождения: ");
         int age = in.nextInt();
 
         s -= age;

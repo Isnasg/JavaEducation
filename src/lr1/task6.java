@@ -6,7 +6,7 @@ public class task6 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        System.out.println("Введите  фамилию: ");
+        System.out.println("Введите фамилию: ");
         String surname = in.nextLine();
 
         System.out.println("Введите имя: ");

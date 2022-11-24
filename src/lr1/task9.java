@@ -7,7 +7,7 @@ public class task9 {
         System.out.println("Какой месяц? ");
         String month = in.nextLine();
 
-        System.out.println("Сколько в  этом месяце дней? ");
+        System.out.println("Сколько в этом месяце дней? ");
         int days = in.nextInt();
 
         System.out.println("В месяце " + month + " " + days + " дней(дня, день)");
