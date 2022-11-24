@@ -6,7 +6,7 @@ public class task14 {
 
         int s2, s3, s4, s5;
         s5 = 2;
-        System.out.println("Введите число ");
+        System.out.println("Введ ите число ");
         int s1 = in.nextInt();
 
         s2 = s1 - 1;

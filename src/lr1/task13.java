@@ -4,7 +4,7 @@ public class task13 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int s3;
-        System.out.println("Введите первое число ");
+        System.out.println("Введи те первое число ");
         int s1 = in.nextInt();
 
         System.out.println("Введите второе число ");

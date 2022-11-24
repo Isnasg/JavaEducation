@@ -7,7 +7,7 @@ public class task8 {
         System.out.println("Какой сегодня день недели? ");
         String week = in.nextLine();
 
-        System.out.println("Какой сейчас месяц? ");
+        System.out.println("Какой  сейчас месяц? ");
         String month = in.nextLine();
 
         System.out.println("Какое сегодня число? ");

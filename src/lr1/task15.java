@@ -5,7 +5,7 @@ public class task15 {
         Scanner in = new Scanner(System.in);
 
         int s3, s4;
-        System.out.println("Введите первое число ");
+        System.out.println("Введ ите первое число ");
         int s1 = in.nextInt();
         System.out.println("Введите второе число ");
         int s2 = in.nextInt();
