@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef404b6a-f62b-4889-aa8c-cee85ef5b1a4" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/lr2/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr2/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr2/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr2/task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr2/task5.java" afterDir="false" />
+    <list default="true" id="ef404b6a-f62b-4889-aa8c-cee85ef5b1a4" name="Changes" comment="lr2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaEducation/Timus/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaEducation/Timus/task_1293/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669302957324</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="lr2">
+      <created>1669820627586</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669820627586</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,7 +222,8 @@
     <MESSAGE value="1" />
     <MESSAGE value="feature/task1293" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="lr2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lr2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
