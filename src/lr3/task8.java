@@ -3,10 +3,11 @@ public class task8 {
     public static void main(String[] args) {
         char j = 'A';
         char[] nums = new char[10]; // Создание массива с размером введённым из консоли
-        for (int i = 0 ; i < nums.length ; i++ ){
+        for (int i = 0 ; i < nums.length ; ){
         if (j != 'A' && j != 'E' && j != 'I' && j != 'O' && j != 'U') {
             nums[i] = j;
             System.out.println("Элемент массива [" + i + "] = " + nums[i]); // Сообщение пользователю "для красоты и понимания"
+            i++;
         }
         j++;
     }

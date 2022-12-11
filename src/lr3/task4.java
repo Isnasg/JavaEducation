@@ -11,7 +11,7 @@ public class task4 {
         int u = in.nextInt();
         int c;
         if (s < u) {
-            System.out.println("Наименьшее число: s= " + s);
+            System.out.println("Наименьшее число: " + s);
             u--;
             while (s < u) {
                 s++;
@@ -19,12 +19,12 @@ public class task4 {
                 System.out.println(c + " ");
             }
             u++;
-            System.out.println("Наибольшее число: u= " + u);
+            System.out.println("Наибольшее число:  " + u);
         } else {
-            System.out.println("Наименьшее число: u= " + u);
+            System.out.println("Наименьшее число: " + u);
             for (c = u;  c < s; c++)
                 System.out.println(c + " ");
-            System.out.println("Наибольшее число: s= " + s);
+            System.out.println("Наибольшее число: " + s);
         }
 
     }
