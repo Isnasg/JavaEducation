@@ -5,26 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef404b6a-f62b-4889-aa8c-cee85ef5b1a4" name="Changes" comment="lr6">
-      <change afterPath="$PROJECT_DIR$/src/lr6/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/task1/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/task10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/task10/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/task2/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/task3/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/task4/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/task5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/task5/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/task6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/task6/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/task7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/task7/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/task8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/task8/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/task9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/task9/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/task1/subClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/task1/superClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/task2/subClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/task2/superClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/task3/subClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/task3/subClassTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/task3/superClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/task4/subClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/task4/subClassTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/task4/superClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/task5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/task5/subClassOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/task5/subClassTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/task5/superClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,13 +61,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.lr7.task4.Main">
+    <configuration name="BRO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr7.task5.BRO" />
+      <module name="JavaEducation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr7.task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr6.task8.Main" />
+      <option name="MAIN_CLASS_NAME" value="lr7.task2.Main" />
       <module name="JavaEducation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr6.task8.*" />
+          <option name="PATTERN" value="lr7.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr6.task10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr6.task10.Main" />
+    <configuration name="lr7.task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr7.task3.Main" />
       <module name="JavaEducation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr6.task10.*" />
+          <option name="PATTERN" value="lr7.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr6.task5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr6.task5.Main" />
+    <configuration name="lr7.task4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr7.task4.Main" />
       <module name="JavaEducation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr6.task5.*" />
+          <option name="PATTERN" value="lr7.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,25 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr6.task6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr6.task6.Main" />
+    <configuration name="lr7.task5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr7.task5.Main" />
       <module name="JavaEducation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr6.task6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lr6.task7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr6.task7.Main" />
-      <module name="JavaEducation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lr6.task7.*" />
+          <option name="PATTERN" value="lr7.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lr7.task4.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.lr6.task7.Main" />
-        <item itemvalue="Application.lr6.task6.Main" />
-        <item itemvalue="Application.lr6.task10.Main" />
-        <item itemvalue="Application.lr6.task5.Main" />
+        <item itemvalue="Application.lr7.task3.Main" />
+        <item itemvalue="Application.lr7.task5.Main" />
+        <item itemvalue="Application.BRO" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671813048996</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="lr6">
+      <created>1672332066314</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1672332066314</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
